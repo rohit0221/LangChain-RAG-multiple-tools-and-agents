@@ -1,0 +1,11 @@
+langchain-community
+langchainhub
+langchain-openai
+langchain
+arxiv
+python-dotenv
+streamlit
+faiss-cpu
+bs4
+ipykernel
+wikipedia
