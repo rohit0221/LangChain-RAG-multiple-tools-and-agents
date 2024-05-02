@@ -1,4 +1,22 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Black Theme Markdown</title>
+  <style>
+    /* Define black theme CSS styles */
+    body {
+      background-color: #000;
+      color: #fff;
+    }
+    /* Add more styles as needed */
+  </style>
+</head>
+<body>
+
+# Your Markdown content goes here
+
 # What are LangChain Tools afterall?
 
 Tools serve as interfaces through which agents, chains, or LLMs can engage with the environment. 
@@ -428,3 +446,7 @@ The Python program presented here showcases the seamless integration of various 
 
 
 So we saw how - LangChain offers a versatile framework for integrating tools into conversational agents, enabling diverse functionalities and use cases. By orchestrating tools within agents, developers can seamlessly integrate multiple functionalities, customize agents to specific needs, and create engaging user experiences across various domains. This flexibility, coupled with the extensibility of LangChain, empowers developers to build intelligent agents that enhance user interactions and streamline tasks, making conversations more productive and engaging.
+
+
+</body>
+</html>
